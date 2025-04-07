@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item{
+
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 100px;
+
+}
+.container{
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+#listas{
+    padding: 100px;
+}
+ol {
+    list-style: upper-roman;
+}
+ul {
+    list-style: url(icons8-done-50.png);
+}
