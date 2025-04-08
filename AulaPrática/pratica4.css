@@ -42,6 +42,13 @@ a{
 }
 
 #corpo{
-    background-color: brown;
+    background-color: rgb(65, 65, 65);
     height: 500px;
+}
+#fundo{
+    background-color: blueviolet;
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
 }
